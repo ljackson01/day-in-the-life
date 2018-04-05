@@ -1,0 +1,238 @@
+body{
+  background-color: #feb236;
+  background-image: url("https://www.transparenttextures.com/patterns/green-dust-and-scratches.png");
+  font-family: 'Questrial', sans-serif;
+
+}
+h1{
+  text-align: center;
+  margin-bottom:15%;
+  font-size: 50pt;
+  color:  #d64161;
+  letter-spacing: 2px;
+
+}
+
+h2{
+  margin-left: 25%;
+  margin-bottom: 10%;
+  color: #02235b;
+  letter-spacing: 2px;
+  font-size: 25pt;
+}
+
+.verticaltext{
+  transform: rotate(90deg);
+  transform-origin: left top 0;
+
+}
+
+.morningpage{
+  color: #02235b;
+  font-size: 25pt;
+}
+
+.morningwrapper{
+  color: #02235b;
+  font-size: 25pt;
+  margin-top: -5%;
+}
+
+.morning img{
+  width: 40%;
+  padding-left: 13%;
+  margin-top: -10%;
+
+}
+
+h3{
+  margin-left: 35%;
+  color: #02235b;
+  letter-spacing: 2px;
+  font-size: 25pt;
+  margin-bottom: 10%;
+}
+
+
+
+
+.midday {
+padding-left: 40%;
+padding-right: 5%;
+}
+
+
+
+.evening img{
+  width: 100%;
+
+}
+
+h4{
+  color:#02235b;
+  letter-spacing: 2px;
+  font-size: 25pt;
+}
+
+.morningpage h2{
+  font-size: 12pt;
+  margin-left: 65%;
+
+}
+
+.time{
+  font-size: 40pt;
+  color: #ff7b25;
+}
+
+.caption{
+  font-size: 30pt;
+  color: #6b5b95;
+}
+
+.dryingsystem{
+  height: 369px;
+  width: 600px;
+  margin-left: 15%;
+  margin-top: -40%;
+}
+
+.morningpage h3{
+  font-size: 12pt;
+  margin-left: 7%;
+  margin-top: 10%;
+}
+
+.paper{
+  width: 100%;
+}
+
+.paper img{
+  width: 100%;
+  height: auto;
+}
+
+.morningpage h4{
+  font-size: 12pt;
+  margin-left: 7%;
+  margin-left: 50%;
+
+}
+.video{
+  margin-left: 50%;
+}
+
+.tamalecake img{
+  width: 35%;
+  margin-left: 50%;
+}
+
+h5{
+  margin-top: -15%;
+
+}
+.middaypage{
+  color: #02235b;
+  font-size: 25pt;
+}
+.midday img{
+  width: 150%;
+  height: auto;
+  margin-left: -225%;
+  margin-top: -35%;
+}
+
+.middaypage h2{
+  margin-left: 7%;
+  margin-left: 50%;
+}
+
+.bodycopy{
+  font-size: 12pt;
+}
+
+.h3photos{
+  margin-left: 18%;
+  margin-top: -5%;
+}
+
+.middaypage h4{
+  margin-left: 7%;
+  margin-left: 50%;
+}
+
+.middaypage h5{
+  margin-left: 18%;
+  margin-top: 5%;
+  text-align: left;
+}
+
+.visionboard img{
+  width: 45%;
+  margin-left: 10%;
+}
+
+.dinner img{
+  width: 100%;
+
+}
+.homework img{
+  width: 50%;
+  margin-left: 50%;
+  margin-top: -5%;
+}
+
+.movie1 img{
+  width: 20%;
+  transform: rotate(35deg);
+  margin-top: 5%;
+  margin-left: 15%;
+}
+
+.movie2 img{
+  width: 15%;
+  transform: rotate(50deg);
+  margin-left: 20%;
+}
+
+.movie3 img{
+  width: 10%;
+  transform: rotate(75deg);
+  margin-left: 30%;
+}
+
+.movie4 img{
+  width:5%;
+  transform: rotate(110deg);
+  margin-left: 40%;
+}
+
+.eveningpage .bodycopy{
+  margin-top: 5%;
+}
+
+h4 .eveningpage .bodycopy {
+  text-align: left;
+}
+
+#button {
+    width: 6em;
+    border: 2px #f79d02;
+    background: #fce7c4;
+    border-radius: 5px;
+    margin-top: 2%;
+    margin-left: 50%;
+    margin-bottom: 2%
+}
+a {
+    display: block;
+    width: 100%;
+    line-height: 2em;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+a:hover {
+    color: red;
+    background: #f29a6a;
+}
