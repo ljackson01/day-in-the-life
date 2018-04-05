@@ -34,7 +34,7 @@ h2{
 
 .morningwrapper{
   color: #02235b;
-  font-size: 25pt;
+  font-size: 50pt;
   margin-top: -5%;
 }
 
@@ -61,6 +61,13 @@ padding-left: 40%;
 padding-right: 5%;
 }
 
+.middaywrapper{
+  font-size: 50pt;
+}
+
+.eveningwrapper{
+  font-size: 50pt;
+}
 
 
 .evening img{
